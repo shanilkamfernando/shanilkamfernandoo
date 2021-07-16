@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanilkamfernando 
-- I’m interested in web development and software development 
-- I’m currently learning at NSBM green University as an Undergraduate 👩‍🎓
+- I’m interested in web development , mobile application development and software development 
+- I’m currently learning at NSBM green University as an Undergraduate of Software Engineering👩‍🎓
 
 <!---
 shanilkamfernando/shanilkamfernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
